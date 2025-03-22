@@ -9,6 +9,7 @@ A project exploring multimodal graph learning on company financial and textual d
 - Train a Graph Neural Network to predict company performance labels
 
 ## Project Structure
+```
 multimodal-company-graph/
 ├── data/               # Raw + processed data
 ├── notebooks/          # Jupyter experiments
@@ -19,3 +20,4 @@ multimodal-company-graph/
 ├── requirements.txt    # list of Python packages needed to run this project
 ├── README.md
 └── .gitignore
+```
