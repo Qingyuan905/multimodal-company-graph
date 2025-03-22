@@ -21,3 +21,14 @@ multimodal-company-graph/
 ├── README.md
 └── .gitignore
 ```
+
+## Dependencies
+Install via:
+```bash
+pip install -r requirements.txt
+```
+
+##  Status
+  In progress – currently working on:
+- Data collection pipeline (EDGAR + yfinance)
+- Basic GCN training setup with PyG
